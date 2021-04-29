@@ -1,0 +1,17 @@
+{
+    "name": "codememory/json-parser",
+    "license": "MIT",
+    "description": "",
+    "authors": [
+        {
+            "name": "Danil",
+            "email": "kostynd1@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codememory\\Components\\JsonParser\\": ""
+        }
+    }
+}
